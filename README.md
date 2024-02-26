@@ -7,5 +7,5 @@ Implemented Q- Learning using various approaches such as Q-Learning, Convolution
 > The output is the video in the file
 
 ## 2. 3AC Model
-Coming Soon
-
+> The second folder contains a model trained in the kung-fu game environment which takes in image frames as input to the LSTM powered A3C modelled layer.
+> The output is the video in the file
