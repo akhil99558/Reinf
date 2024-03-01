@@ -9,3 +9,7 @@ Implemented Q- Learning using various approaches such as Q-Learning, Convolution
 ## 2. 3AC Model
 > The second folder contains a model trained in the kung-fu game environment which takes in image frames as input to the LSTM powered A3C modelled layer.
 > The output is the video in the file
+
+## 3.LSTM Powered AI Model
+
+> The folder contains a pretrained model from hugging face which we have fine-tuned and then displayed a test output
